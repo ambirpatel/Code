@@ -1,6 +1,7 @@
 '''
 Dynamic Array
-
+	Static array -> size fixed
+	Dynamic array -> Static array with size increament
 1. Create list
 2. len [D]
 3. append [D]
