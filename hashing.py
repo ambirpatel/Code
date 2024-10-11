@@ -6,6 +6,7 @@
 	DB -> Indexing
 	Caching
 
+
 - How hashing works
 - Collision
   Chaining -> Rehashing/ Tree conversion
