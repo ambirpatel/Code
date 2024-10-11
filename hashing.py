@@ -79,7 +79,7 @@ class Dictionary:
 			current_position = self. rehash(current_position)
 
 			if current_position == start_position:
-			return 'Not Found'
+				return 'Not Found'
 
 		return 'Not Found'				
 
