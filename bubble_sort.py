@@ -1,6 +1,6 @@
 '''
 # Why called bubble sort
-	After sucessive passes the largest items moves to right.
+	After successive passes the largest items moves to right.
 
 # Viz: 
 	https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
@@ -16,7 +16,7 @@
 	O(1) | Constant, since we are not creating any new variables
 	
 # Adaptive sort?
-	A sorting alg falls into the adaptive sort familty if it takes advantage of existing order in its input.
+	A sorting alg falls into the adaptive sort family if it takes advantage of existing order in its input.
 	
 	Bubble sort is not adaptive.
 
